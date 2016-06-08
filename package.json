@@ -1,0 +1,28 @@
+{
+  "name": "react-learning",
+  "version": "1.0.0",
+  "description": "react",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maybeShuo/react-learning.git"
+  },
+  "keywords": [
+    "react",
+    "node"
+  ],
+  "author": "Chen Shuo <546537825@qq.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maybeShuo/react-learning/issues"
+  },
+  "homepage": "https://github.com/maybeShuo/react-learning#readme",
+  "devDependencies": {
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4"
+  }
+}
